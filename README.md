@@ -2,7 +2,7 @@
 # C Programming
 
 This repository contains my C programming practice
-and Data Structures and Algorithms (DSA) programs.
+problems.
 
 ## Topics Covered
 
@@ -10,9 +10,6 @@ and Data Structures and Algorithms (DSA) programs.
 - Loops and functions
 - Arrays and strings
 - Pointers and recursion
-- Searching algorithms
-- Sorting algorithms
-- Linked lists, stacks and queues
 
 ## Language
 
